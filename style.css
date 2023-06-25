@@ -95,7 +95,7 @@ article > p {
 article .botao {
     font-size: 1.3em;
     text-align: center;
-    line-height: none;
+    line-height: 1em;
 
 }
 .voltar {
